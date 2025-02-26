@@ -11,14 +11,14 @@ int main(){
     float pib;
     int pontosturisticos;
    
-   printf ("Desafio - Super Trunfo Paises\n");
+   printf ("Desafio - Super Trunfo Paises\n     ");
    
    printf("Carta 01\n");   // Informações Primeira Carta
 
    printf("Nome do Pais - ");
    printf("Brasil\n");
    printf("Estado - ");
-   printf("São Paulo\n");
+   printf(" A \n");
    printf("codigo da Carta - ");
    printf("A01\n");
    printf("Cidade - ");
@@ -30,7 +30,7 @@ int main(){
    printf("PIB - ");
    printf("11.953,237 milhões.\n");
    printf("Pontos Turisticos - ");
-   printf("30\n");
+   printf("30 \n    ");
 
 
    printf("Carta 02\n");  // Informações Segunda Carta
@@ -38,7 +38,7 @@ int main(){
     printf("Nome do Pais - ");
     printf("Brasil\n");
     printf("Estado - ");
-    printf("São Paulo\n");
+    printf(" A \n");
     printf("codigo da Carta - ");
     printf("A02\n");
     printf("Cidade - ");
